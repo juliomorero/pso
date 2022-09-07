@@ -24,6 +24,12 @@ The idea of this project is to explore the optimization technique known as Parti
 
 ## Usage
 
+### Code used in Guided lecture
+
+1. Check `guided.ipynb`
+
+### Old code
+
 1. Activate virtual environment
    ```
    > source <name_of_venv>/bin/activate
